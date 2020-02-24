@@ -1,0 +1,7 @@
+body {background-image: url(mat.jpg);}
+input {margin: 10px;border-radius: 4px;border-color: black;border-width: 2pt;}
+div.pp {margin-top: 25px;margin-left: 25px; background-color: blue;padding: 10px 10px 10px 10px;border-radius: 4px;}
+div.vis {margin-top: 25px;margin-left: 75px;background-color: crimson;padding: 10px 10px 10px 10px;border-radius: 4px;}
+div.Zap {margin-top: 25px;margin-left: 125px;background-color: darkblue;padding: 20px 20px 20px 20px;font-size: 45px;border-radius: 4px;}
+#out {  height:100px; font-size:20pt;}
+label {color: white;}
